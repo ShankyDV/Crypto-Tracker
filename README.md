@@ -1,10 +1,8 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS :coin:
 
-## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
-
 
 ## Demo
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
+#### Here is a working live demo :  https://crypto-trackerwebapp.netlify.app
 
 ## Built with 
 
