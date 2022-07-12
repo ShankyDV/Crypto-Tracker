@@ -1,8 +1,11 @@
-# Cryptocurrency Tracker with React JS, Material UI and Chart JS :coin:
+# Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
+## [Watch Full Tutorial on Youtube here](https://youtu.be/QA6oTpMZp84)
+
+[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)](https://youtu.be/QA6oTpMZp84)
 
 ## Demo
-#### Here is a working live demo :  https://crypto-trackerwebapp.netlify.app
+#### Here is a working live demo :  https://crypto-hunter.netlify.app/
 
 ## Built with 
 
@@ -10,14 +13,8 @@
 - [Material UI](https://v4.mui.com/)
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 
+## Made with ♥ By [Roadside Coder](https://www.youtube.com/channel/UCIPZVAwDGa-A4ZJxCBvXRuQ)
 
+[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
 
-## HomePage
-![Screenshot 2022-07-12 113602](https://user-images.githubusercontent.com/86783410/178420424-5ec81b8e-fac4-4da3-b4d0-3cb11ddaadcd.png)
-
-![Screenshot 2022-07-12 113637](https://user-images.githubusercontent.com/86783410/178420442-e8d29f70-99f3-4b34-a96a-9920bca92de5.png)
-## Coin Page
-![Screenshot 2022-07-12 113703](https://user-images.githubusercontent.com/86783410/178420449-c8afe7de-0300-47ea-af36-452b467dcfc5.png)
-
-
-MIT © [Deepanshu Varun ](https://github.com/ShankyDV)
+MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
